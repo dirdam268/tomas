@@ -1,4 +1,4 @@
-﻿const CACHE_NAME = 'tomas-competencia-v1';
+﻿const CACHE_NAME = 'tomas-competencia-v2';
 const PRECACHE = ['./', './index.html', './manifest.json', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', (event) => {
