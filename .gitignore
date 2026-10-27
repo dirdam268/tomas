@@ -13,3 +13,7 @@ geocache.json
 serve.ps1
 gen-icons.ps1
 README.md
+servidor.txt
+clave-servidor.txt
+cloudflare-token.txt
+worker/
