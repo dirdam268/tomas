@@ -1,0 +1,17 @@
+{
+  "name": "Tomas de competencia",
+  "short_name": "Tomas",
+  "description": "Tomas de competencia en Madrid: mapa, comentarios, fotos, vídeos y rutas de visita",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef1f0",
+  "theme_color": "#1b7f95",
+  "lang": "es",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

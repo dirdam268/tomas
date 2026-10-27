@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+
+# Fuente en claro y datos de origen (NO publicar)
+index-src.html
+construir.ps1
+extraer.ps1
+plantilla.html
+puerta.html
+datos.json
+geocache.json
+*.xlsx
+serve.ps1
+gen-icons.ps1
+README.md
